@@ -1,4 +1,6 @@
-
+This is a reupload of a project in which I was part of the development team. Original repository can be found here: https://github.com/Be4nz/sent
+##
+<br>
 <div align="center">
   <img src="https://github.com/Be4nz/sent/assets/156369263/2fb06ab8-154b-4f41-adcc-c69ad782719b" alt="Logo" height="80">
 </div>
@@ -9,7 +11,7 @@ Welcome to **sent**, a social platform where you can share your thoughts and con
 
 ## Development Information
 
-The project is actively being developed by the **sourcerers** team as a module task in **Kaunas University of Technology**. <br>
+The project was developed by the **sourcerers** team as a module task in **Kaunas University of Technology**. <br>
 The team members are:
 
 - Benas Andriuščenka // [@Be4nz](https://github.com/Be4nz)
