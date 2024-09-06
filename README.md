@@ -1,4 +1,5 @@
-This is a reupload of a project in which I was part of the development team. Original repository can be found here: https://github.com/Be4nz/sent
+This is a reupload of a project in which I was one of four developers as well as the designer for the interface.<br>
+Original repository can be found here: https://github.com/Be4nz/sent
 ##
 <br>
 <div align="center">
